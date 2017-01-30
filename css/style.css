@@ -73,7 +73,7 @@ body {
 .main-color-bg {
   background-color: #f06142 !important;
   border-color: #d02c1c !important;
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 /*Header*/
@@ -102,6 +102,10 @@ body {
 .progress-bar {
   background: #333333;
   color: #ffffff;
+}
+
+.dash-box {
+  text-align: center;
 }
 
 
